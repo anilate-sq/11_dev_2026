@@ -30,4 +30,5 @@ public class ex_02_IfElse {
         } else {
             System.out.println("Доступ запрещён.");
         }
+    }
 }

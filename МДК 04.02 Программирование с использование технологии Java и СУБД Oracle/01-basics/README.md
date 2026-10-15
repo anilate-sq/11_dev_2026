@@ -9,5 +9,6 @@
 | 3 | [Ввод и вывод](03-input-and-output/README.md) | [Открыть](03-input-and-output/practice/README.md) | [Открыть](03-input-and-output/homework/README.md) |
 | 4 | [Условные конструкции](04-conditions/README.md) | [Открыть](04-conditions/practice/README.md) | [Открыть](04-conditions/homework/README.md) |
 | 5 | [Циклы](05-loops/README.md) | [Открыть](05-loops/practice/README.md) | [Открыть](05-loops/homework/README.md) |
+| 6 | [Методы](06-methods/README.md) | [Открыть](06-methods/practice/README.md) | [Открыть](06-methods/homework/README.md) |
 
 Лекции, примеры и задания находятся внутри папки соответствующего занятия. Материалы остальных тем будут появляться по мере публикации.

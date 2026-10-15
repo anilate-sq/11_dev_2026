@@ -17,6 +17,7 @@
 | 3 | [Ввод и вывод](01-basics/03-input-and-output/README.md) | [Практика](01-basics/03-input-and-output/practice/README.md) | [Домашнее задание](01-basics/03-input-and-output/homework/README.md) |
 | 4 | [Условные конструкции](01-basics/04-conditions/README.md) | [Практика](01-basics/04-conditions/practice/README.md) | [Домашнее задание](01-basics/04-conditions/homework/README.md) |
 | 5 | [Циклы](01-basics/05-loops/README.md) | [Практика](01-basics/05-loops/practice/README.md) | [Домашнее задание](01-basics/05-loops/homework/README.md) |
+| 6 | [Методы](01-basics/06-methods/README.md) | [Практика](01-basics/06-methods/practice/README.md) | [Домашнее задание](01-basics/06-methods/homework/README.md) |
 
 [Обзор блока «Основы Java»](01-basics/README.md)
 

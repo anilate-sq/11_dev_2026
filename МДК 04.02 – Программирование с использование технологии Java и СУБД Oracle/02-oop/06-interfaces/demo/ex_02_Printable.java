@@ -3,7 +3,7 @@ interface Printable {
     void send();
 }
 
-class Invoice{
+class Invoice implements Printable{    
     public void print(String content){
         System.out.println("Выписка по счету\n" + content);
     }
@@ -13,7 +13,7 @@ class Invoice{
     }
 }
 
-class Label{
+class Label implements Printable{
     public void print(String content){
         System.out.println("Открытка\n" + content);
     }

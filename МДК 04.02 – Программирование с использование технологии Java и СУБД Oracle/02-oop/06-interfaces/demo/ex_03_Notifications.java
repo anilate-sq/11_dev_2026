@@ -2,13 +2,13 @@ interface Notifier{
     void send(String message, String date);
 }
 
-class Email{
+class Email implements Notifier{
     public void send(String message, String date){
         System.out.println("Уведомление на почту от " + date + ":\n" + message);
     }
 }
 
-class SMS{
+class SMS implements Notifier{
     public void send(String message, String date){
         System.out.println("Уведомление на почту от " + date + ":\n" + message);
     }
